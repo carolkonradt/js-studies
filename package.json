@@ -1,0 +1,22 @@
+{
+  "name": "js-studies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multiplesof3or5.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolkonradt/js-studies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolkonradt/js-studies/issues"
+  },
+  "homepage": "https://github.com/carolkonradt/js-studies#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
